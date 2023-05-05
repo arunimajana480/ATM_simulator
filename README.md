@@ -3,7 +3,7 @@
 This is an ATM simulator system created using C++ programming language. The system simulates the functions of an ATM machine, including withdrawing cash, checking balances, and transferring funds.
 
 ## Note
-- **Account Number** : 2221215
+- **Account Number** : 221215
 
 - **Pin** : 221215
 
