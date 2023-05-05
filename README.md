@@ -5,7 +5,7 @@ This is an ATM simulator system created using C++ programming language. The syst
 ## Note
 - **Account Number** : 2221215
 
--**Pin** : 221215
+- **Pin** : 221215
 
 ## Features
 
